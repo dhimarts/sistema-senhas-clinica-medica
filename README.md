@@ -19,6 +19,10 @@ Na hora de chamar o próximo paciente, o sistema sempre verifica primeiro a árv
 
 Como o Tkinter já vem instalado por padrão no Python no Windows, basta clonar o repositório e rodar o arquivo principal.
 
+## Vídeo demonstrativo
+
+Link do vídeo mostrando a execução do projeto, emissão de senhas, chamada prioritária e tratamento de fila vazia: [Assistir vídeo](ssdc.mp4)
+
 ## Prints do sistema
 
 Tela com senhas normais e preferenciais emitidas, mostrando a prioridade na fila e o tempo estimado de espera:
