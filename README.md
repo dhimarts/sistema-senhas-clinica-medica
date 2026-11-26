@@ -29,3 +29,6 @@ Chamada de senha preferencial, painel atualizado e histórico de atendimentos re
 
 Alternando para outra especialidade com fila independente:
 ![Especialidades independentes](tela3.png)
+
+Aviso exibido quando tenta chamar uma senha com a fila vazia:
+![Fila vazia](tela4.png)
